@@ -4,13 +4,11 @@
 
 ## LEGS (leftover: side-dips | squats)
 
-pre: side glutes
 - glutes | hamstring | quads/press | calves ( side glutes / QL )
 
 ## PULL
 
-pre: W
-- pull | spost | traps | biceps  | Y | erector
+- lats | spost | traps | biceps  | Y/W | erector
 
 ## PUSH
 
