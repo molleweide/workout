@@ -2,20 +2,17 @@
 
 # 3 DAY SPLIT ########################################
 
-## LEGS (leftover: side-dips | squats)
+## LEGS
 
-- glutes | hamstring | quads/press | calves ( side glutes / QL )
+- sideg | glutes | hamstring | quads | calves
 
 ## PULL
 
-- lats | spost | traps | biceps  | Y/W | erector
+- lats | spost | traps | biceps  | erector | Y
 
 ## PUSH
 
-- chest | triceps | sfront | smid | abs | obliques
-
-## stabilizers
-
+- chest | triceps | sfront | smid | abs | W
 
 ## SINGLE DAY FULLBODY #####################################
 
