@@ -1,4 +1,4 @@
-# 3 DAY SPLIT ########################################
+# 3 DAY SPLIT | push / pull / legs
 
 ## LEGS
 
@@ -16,10 +16,16 @@
 - traps 
 - erector
     even and diagonal extensions
-- Y / face pulls
-- biceps
+    squeeze the lower back extensiont
+- Y / W | face pulls
+- biceps 
 
 ## PUSH
 
-- chest | triceps | sfront | smid | abs | W
+- chest
+- triceps
+- sfront
+- smid
+- abs
+- obliques
 
