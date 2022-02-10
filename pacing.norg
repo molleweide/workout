@@ -25,3 +25,13 @@
 ~  personally I often forget what number I am at when counting so using more complex methods for monitoring my body is more fun and I don't get too caught up in the counting.
 ~  it becomes more like playing drums whilst performing the exercise
 
+
+ ** examples:
+
+    `NOTE: each word in the sequence is equivalent to one musical beat.`
+    `NOTE: exhale | inhale`
+
+    ~ brace brace brace | not not not not -> brace brace brace | one (4)
+    ~ A brace brace | not (4) -> A brace brace | one (4) -> A brace brace | two (4)
+    ~~ B brace brace | not (4) -> B brace brace | one (4) ...
+    ~ brace (4) | out (4)
