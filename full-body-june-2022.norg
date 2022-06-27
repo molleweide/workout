@@ -7,11 +7,19 @@
   version: 0.0.11
 @end
 
+* five day rolling workout schedule.
+
+  ~  Every session consists of ~4 exercises that you cycle 5 - 10 times depending on how much time you have.
+  ~  This means that you hit every muscle group ~once a week.
+  ~  Insert rest days whenever you like but do maximum of ~5 workout days in a row.
+  ~  Think system - NOT goals. You don't have to think at all when you get this routine under your skin.
+
 * 1. PULL -------------------------------------------------------
 
 ** A
    warmup > rowing
    mobility > stand on all four w/abs facing up
+
 ** B
    - low pull (latissimus)
    - high pull (external rot / medium traps)
@@ -46,7 +54,7 @@
    stretching
 ** B
    - hamstring
-   - hipflexors / psoas
+   - psoas / hip flexor
    - tibialis
    - adduction
    - ( rotation ) todo..
@@ -60,4 +68,4 @@
    - trapezius
    - biceps
    - triceps
-   - ( lower arms )
+   - ( lower arms extension/flexion )
