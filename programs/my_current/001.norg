@@ -9,23 +9,40 @@ version: 0.0.12
 
 | this is my current workout programming.
 
-* PULL
+* PROGRAMMING
+** PULL
   ~ back extensions
-  ~ lats / rear delts / face pulls
-  ~ traps / deadlifts
+  ~ (deadlifts)
+  ~ lats / face pulls
+  ~  read delts / traps
 
-* LEG PRESS
+** LEG PRESS
   ~ glutes / quads / calves -> (squats / deadlifts)
   ~ core rotation
 
-* PUSH
+** PUSH
   ~ chest / front delts / mid delts
   ~ serratus press / obliques
 
-* LEG PULL / ARMS
+** LEG PULL / ARMS
   warm up with trap walks / high knees.
   ~ hip pulls / hamstring / split squats
   ~ arms
   ~ traps/walks
 
-* running 10 km
+** cardio/running 10 km
+
+   This could be boxing as well, or rowing, but then I'd need to find a
+   convenient place for doing these activities.
+
+* ORDERING
+
+  This ordering is made to spread out leg press days as much as possible and
+  also keep hamstring days as far away from running/cardio days so that my
+  hamstrings get a couple of days to recover before running hard.
+
+  ~ leg press
+  ~ leg pull & arms
+  ~ pull & deadlifts
+  ~ upper press
+  ~ running
